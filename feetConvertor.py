@@ -17,7 +17,7 @@ root.columnconfigure(0, weight=1)
 root.rowconfigure(0, weight=1)
 
 feet = StringVar()
-feet_entry = ttk.Entry(mainframe, width=7, textvariable=feet)
+feet_entry = ttk.Entry(mainframe, width=10, textvariable=feet)
 feet_entry.grid(column=2, row=1, sticky=(W, E))
 
 meters = StringVar()

@@ -3,6 +3,7 @@
 
  This project is based on Python tutorial https://www.pythontutorial.net/tkinter/
  This is one of the best Python GUI learning tutorials to learn from. 
+ 
 # 🧰 TkCollections
 
 A collection of lightweight and reusable **Tkinter GUI components** built with Python. `TkCollections` simplifies building modern desktop applications by providing ready-to-use widgets and layout templates.
